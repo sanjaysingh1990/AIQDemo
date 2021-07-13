@@ -11,7 +11,7 @@
 
 ###  ❤ Some Screenshots of this UI.	
 
-![alt text](https://github.com/sanjaysingh1990/AQIDemo/blob/main/screenshots/home.jpeg.jpg?raw=true)
+![alt text](https://github.com/sanjaysingh1990/AQIDemo/blob/main/screenshots/home.jpeg)
 ![alt text](https://github.com/sanjaysingh1990/AQIDemo/blob/main/screenshots/sparkanimation.jpeg.jpeg.jpg?raw=true)
 
 ### Find me
