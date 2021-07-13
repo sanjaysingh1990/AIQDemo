@@ -20,7 +20,7 @@ This sample app took around 4 hours includinig UI, handing of sockets and data s
 
 
 ### Android APK Downlaod here
-> APK [APK](https://drive.google.com/file/d/17Q8GaaGvfTaKik4cnPQyZU1DKHKUofVB/view?usp=sharing).
+> APK [Download from here...](https://drive.google.com/file/d/17Q8GaaGvfTaKik4cnPQyZU1DKHKUofVB/view?usp=sharing).
 
 
 
