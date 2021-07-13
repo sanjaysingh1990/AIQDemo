@@ -2,7 +2,7 @@ package com.wh.utils
 
 import android.content.Context
 import androidx.core.content.ContextCompat
-import com.wh.aqldemo.R
+import com.wh.ui.R
 import com.wh.model.AQIStatus
 
 object Utils {

@@ -1,4 +1,4 @@
-package com.wh.aqldemo
+package com.wh.ui
 
 import org.junit.Test
 

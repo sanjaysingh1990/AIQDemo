@@ -1,4 +1,4 @@
-package com.wh.aqldemo
+package com.wh.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater

@@ -1,4 +1,4 @@
-package com.wh.aqldemo
+package com.wh.ui
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
