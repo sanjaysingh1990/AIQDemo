@@ -7,7 +7,7 @@
  - livedata: 
 
 ### ❤ App Architecture and core logic
-This sample app took around 4 hours includinig UI, handing of sockets and data sharing among fragments using live data. MainActivity contains socket events and transfer data to different Fragments which are required to load data. Work manager basically to take or socket connection whenever it gets closed. Sparklines library to draw graph for  AQI values for a selected city. 
+This sample app took around 4 hours includinig UI, handing of sockets and data sharing among fragments using live data. MainActivity contains socket events and transfer data to different Fragments which are required to load data. Work manager basically to take care of socket connection whenever it gets closed. Sparklines library to draw graph for  AQI values for a selected city. 
 
 ###  ❤ Some Screenshots of this UI.	
 
